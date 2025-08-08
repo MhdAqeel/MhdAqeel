@@ -21,7 +21,10 @@
 - Exploring GitHub Actions automation.
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdAqeel)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhdAqeel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAqeel&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MhdAqeel&theme=radical&date_format=j%20M%5B%20Y%5D)
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-aqeel-7780b7323)
